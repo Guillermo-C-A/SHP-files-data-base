@@ -4,7 +4,9 @@ In this repository you will find a collection of some files in SHP format that I
 
 - https://tapiquen-sig.jimdofree.com/descargas-gratuitas/
 
-For the creation of the following maps, the following Python syntax has been used and with the geopand library 
+I will try to update this shp repository with new maps over time :) 
+
+The following Python syntax has been used to create the following maps 
 
 ```python
 
