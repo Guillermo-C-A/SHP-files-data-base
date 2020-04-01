@@ -2,6 +2,7 @@
 
 In this repository you will find a collection of some files in SHP format that I have been finding on the Internet. All the maps are of a geographical-political type. These maps were extracted from the following sources: 
 
+- http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=CAANE
 - https://tapiquen-sig.jimdofree.com/descargas-gratuitas/
 - https://diva-gis.org/gdata (due to licensing issues I can't distribute the shp files on this site, but you can download them yourself )
 
