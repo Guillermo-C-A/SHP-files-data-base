@@ -19,7 +19,7 @@ import numpy as np
 def create_maps(path_shp, title)
 
     data = geopandas.read_file(path_shp)
-    data['Random'] = np.random.randn(datos.shape[0], 1)
+    data['Random'] = np.random.randn(data.shape[0], 1)
 
     data.plot(column='Random')
     plt.title(title)
