@@ -4,6 +4,25 @@ In this repository you will find a collection of some files in SHP format that I
 
 - https://tapiquen-sig.jimdofree.com/descargas-gratuitas/
 
+For the creation of the following maps, the following Python syntax has been used and with the geopand library 
+
+```python
+
+import matplotlib.pyplot as plt
+import geopandas
+import numpy as np
+
+def create_maps(path_shp, title)
+
+    data = geopandas.read_file(path_shp)
+    data['Random'] = np.random.randn(datos.shape[0], 1)
+
+    data.plot(column='Random')
+    plt.title(title)
+    plt.savefig(title + '.png')
+
+```
+
 As far as the different maps are concerned, you will find the following: 
 
 ## Spain
